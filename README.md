@@ -1,4 +1,4 @@
-<p align="left">Cientista da Computação na UFRRJ, profissional e entusiasta da área de Engenharia de dados e de Desenvolvimento Fullstack. Desenvolvi sólido conhecimento nas linguagens de programação C++, Java, Go, Python, C# e Javascript por terem sido grades pilares na minha jornada estudantil e profissional.</p>
+<p align="left">Cientista da Computação formado pela UFRRJ, profissional e entusiasta da área de Engenharia de dados e de Desenvolvimento Fullstack. Desenvolvi sólido conhecimento nas linguagens de programação C++, Java, Go, Python, C# e Javascript por terem sido grades pilares na minha jornada profissional.</p>
 
 ###
 
